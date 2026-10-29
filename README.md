@@ -30,7 +30,9 @@ Command Line Options:
 
 --mode: overflow, idor, or all (default: all).
 
-📸 Example Output
+## 📸 Example Output
+
+```text
 🚀 Starting PromptBreaker Scan...
 Target: https://api.yourdomain.com/v1/chat
 
@@ -45,7 +47,9 @@ Testing IDOR on Instance IDs...
 │ admin       │ VULNERABLE │
 │ test        │ Secure     │
 └─────────────┴────────────┘
-⚖️ Disclaimer
+```
+
+## ⚖️ Disclaimer
 This tool is intended for educational purposes and authorized security testing only. Do not use against systems you do not own. The author is not responsible for any misuse.
 
 🤝 Contributing
